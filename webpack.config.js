@@ -19,7 +19,8 @@ var config = {
   output: {
     path: buildPath,
     filename: 'bundle.js',
-    publicPath: '/build/'
+    publicPath: '/build/',
+
   },
   module: {
     loaders: [

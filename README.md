@@ -1,4 +1,4 @@
-# cerebral-boilerplate
+# cerebral-boilerplate + getuikit.com
 
 A webpack boilerplate for cerebral applications
 
